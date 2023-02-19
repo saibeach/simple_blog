@@ -6,7 +6,7 @@ download the file and run below command in your terminal
 
 ``` 
 npm install
-
+```
 
 ## App Overview
 
