@@ -1,0 +1,31 @@
+body {
+  background-color: #1a1a1a;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+.btn-success {
+  background-color: #3ddc97;
+  border-color: #3ddc97;
+}
+
+.btn-primary {
+  background-color: #4285f4;
+  border-color: #4285f4;
+}
+
+.btn-info {
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+}
+
+.btn-danger {
+  background-color: #f44336;
+  border-color: #f44336;
+}
+
+.container {
+  background-image: url('https://cdn.conceptartempire.com/images/12/3242/00-16-futuristic-seoul-city-concept-art.jpg');
+  background-size: cover;
+  background-position: center;
+}
